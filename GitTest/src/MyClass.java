@@ -4,6 +4,9 @@ public class MyClass {
 		
 		System.out.print("hello");
 		System.out.print("v_2");
+		
+		MyClass2 s = new MyClass2();
+		s.printHello();
 	}
 	
 }
