@@ -9,6 +9,7 @@ public class MyClass {
 		
 		MyClass2 s = new MyClass2();
 		s.printHello();
+		System.out.print("v_2.0");
 	}
 	
 }
